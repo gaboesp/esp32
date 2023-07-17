@@ -2,7 +2,7 @@
 #include "string.h"
 #include "unistd.h"
 #include "MQTTClient.h"
-
+// OK ESTAMOS HACIENDO UN CAMBIO AHORA MISMO
 #define ADDRESS     "<<serverUrl>>"
 #define CLIENTID    "<<clientId>>"
 
