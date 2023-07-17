@@ -1,6 +1,6 @@
 const char* ssid = "yourNetworkName";
 const char* password = "yourNetworkPassword";
-
+//ESTO ESo
 void setup(){
     Serial.begin(115200);
     delay(1000);
@@ -19,4 +19,5 @@ void setup(){
     Serial.println(WiFi.localIP());
 }
 
-void loop(){}
+void loop(){
+
